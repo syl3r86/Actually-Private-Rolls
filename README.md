@@ -1,5 +1,5 @@
 # Actually Private Rolls
-Hides Private GM Rolls completely rather then just obfuscating the result.
+Hides Private GM Rolls completely rather then just obfuscating the result. This can be toggled on or off in the Settings Menu.
 
 ## Installation
 1. Copy this link and use it in Foundrys Module Manager to install the Module
