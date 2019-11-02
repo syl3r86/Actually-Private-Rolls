@@ -9,8 +9,6 @@ Hides Private GM Rolls completely rather then just obfuscating the result. This 
 2. Enable the Module in your Worlds Module Settings
 
 ## Contribution
-Shoutout to DestinyGrey#2890 who incentivized the creation of this module.
-
 If you feel like supporting my work, feel free to leave a tip at my paypal felix.mueller.86@web.de
 
 ## License
