@@ -6,6 +6,6 @@
 	"author": "Felix",
     	"scripts": ["actually-private-rolls.js"],
     	"url": "https://github.com/syl3r86/Actually-Private-Rolls",
-    	"manifest": "https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/master/module.json",
-    	"download": "https://github.com/syl3r86/Actually-Private-Rolls/archive/master.zip"
+    	"manifest": "https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/pre-0.4.0/module.json",
+    	"download": "https://github.com/syl3r86/Actually-Private-Rolls/archive/pre-0.4.0.zip"
 }
