@@ -1,4 +1,8 @@
 # Actually Private Rolls
+
+> This version only works for Foundry v0.4.0 and up. To use the previous version please visit
+https://github.com/syl3r86/Actually-Private-Rolls/tree/pre-0.4.0
+
 Hides Private GM Rolls completely rather then just obfuscating the result. This can be toggled on or off in the Settings Menu.
 
 ## Installation
