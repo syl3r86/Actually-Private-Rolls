@@ -4,7 +4,7 @@ Hides Private GM Rolls completely rather then just obfuscating the result. This 
 ## Installation
 1. Copy this link and use it in Foundrys Module Manager to install the Module
 
-    > https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/master/module.json
+    > https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/pre-0.4.0/module.json
     
 2. Enable the Module in your Worlds Module Settings
 
