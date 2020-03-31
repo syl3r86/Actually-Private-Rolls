@@ -10,9 +10,8 @@ Hooks.on('init', () => {
 });
 
 Hooks.on('renderChatMessage', (app, html, msg) => {
-
-    if (game.settings.get('actually-private-rolls', 'hidePrivateRolls') && msg.isWhisper === 1) {
-        if (game.user.isGM === false && game.user.data._id !== msg.author.data._id) {
+    if (game.settings.get('actually-private-rolls', 'hidePrivateRolls') && msg.whisperTo !== '') {
+        if (game.user.isGM === false && game.user.data._id !== msg.author.data._id && msg.message.whisper.indexOf(game.user.id) === -1) {
             html.hide();
         }
     }

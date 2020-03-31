@@ -2,11 +2,11 @@
 	"name": "actually-private-rolls",
 	"title": "Actually Private Rolls",
 	"description": "Hides Private GM Rolls completely rather then just obfuscating the result.",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"author": "Felix#6196",
-    "minimumCoreVersion": "0.4.5",
-    	"scripts": ["actually-private-rolls.js"],
-    	"url": "https://github.com/syl3r86/Actually-Private-Rolls",
-    	"manifest": "https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/master/module.json",
-    	"download": "https://github.com/syl3r86/Actually-Private-Rolls/archive/master.zip"
+    "minimumCoreVersion": "0.5.2",
+    "scripts": ["actually-private-rolls.js"],
+    "url": "https://github.com/syl3r86/Actually-Private-Rolls",
+    "manifest": "https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/master/module.json",
+    "download": "https://github.com/syl3r86/Actually-Private-Rolls/archive/master.zip"
 }
