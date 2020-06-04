@@ -7,7 +7,7 @@
     "scripts": ["actually-private-rolls.js"],
     "url": "https://github.com/syl3r86/Actually-Private-Rolls",
     "manifest": "https://raw.githubusercontent.com/syl3r86/Actually-Private-Rolls/master/module.json",
-    "download": "https://github.com/syl3r86/Actually-Private-Rolls/archive/master.zip",
+    "download": "https://github.com/syl3r86/Actually-Private-Rolls/archive/v0.2.zip",
     "minimumCoreVersion": "0.5.5",
     "compatibleCoreVersion": "0.6.1"
 }
