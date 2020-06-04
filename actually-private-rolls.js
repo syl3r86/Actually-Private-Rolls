@@ -16,3 +16,10 @@ Hooks.on('renderChatMessage', (app, html, msg) => {
         }
     }
 });
+
+Hooks.on("updateChatMessage", (message, data, diff, id) => {
+    if (data.blind === false) {
+        let messageLi = $(`.message[data-message-id=${data._id}]`);
+        messageLi.show();
+    }
+});
